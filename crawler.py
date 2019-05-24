@@ -15,5 +15,5 @@ def check_status(userName):
 	return response
 #tierRank
 
-res = check_status("Trollersswift")
+res = check_status("Username")
 print(res)
